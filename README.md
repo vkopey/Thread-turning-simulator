@@ -9,4 +9,4 @@ To simulate various machining errors in the program, it is possible to change th
 
 If you use Thread-turning-simulator please cite the following reference in your work (books, articles, reports, etc.):
 
-Kopei V, Onysko O, Panchuk V 2018 Computerized System Based on FreeCAD for Geometric Simulation of Thread Turning of Oil and Gas Pipes, 6th International Conference of Applied Science (May 9-11, 2018, Banja Luka, Bosnia and Herzegovina): Book of Abstracts (Banja Luka: University of Banja Luka) 108
+V B Kopei et al 2019 IOP Conf. Ser.: Mater. Sci. Eng. 477 012032 https://doi.org/10.1088/1757-899X/477/1/012032
