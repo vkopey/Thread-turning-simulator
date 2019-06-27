@@ -7,6 +7,8 @@ To simulate various machining errors in the program, it is possible to change th
 
 ---
 
-If you use Thread-turning-simulator please cite the following reference in your work (books, articles, reports, etc.):
+If you use Thread-turning-simulator please cite the following references in your work (books, articles, reports, etc.):
 
 V B Kopei et al 2019 IOP Conf. Ser.: Mater. Sci. Eng. 477 012032 https://doi.org/10.1088/1757-899X/477/1/012032
+
+Kopei V., Onysko O., Panchuk V. (2020) The Application of the Uncorrected Tool with a Negative Rake Angle for Tapered Thread Turning. In: Ivanov V. et al. (eds) Advances in Design, Simulation and Manufacturing II. DSMIE 2019. Lecture Notes in Mechanical Engineering. Springer, Cham. https://doi.org/10.1007/978-3-030-22365-6_15
